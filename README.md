@@ -10,9 +10,8 @@ pip install socket
 
 <button style="background-color: turquoise; border: none; border-radius: 5px; color: #333; padding: 15px 32px"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdhxR5JdOb_pjtQb48Ax8JbJfkbcCyCeYLBWxHQ02u7z5oKag/viewform?usp=sf_link" target="blank"> Fill the form for Questions, Queries and Suggestions</a></button>
 
-_Social buttons_
 
-[![Muhammad-Nouman-Ahmed - Port Scanner](https://img.shields.io/static/v1?label=Muhammad-Nouman-Ahmed&message=Port+Scanner&color=blue&logo=github)](https://github.com/Muhammad-Nouman-Ahmed/Port Scanner "Go to GitHub repo")
+[![Muhammad-Nouman-Ahmed - Port Scanner]
 [![stars - Port Scanner](https://img.shields.io/github/stars/Muhammad-Nouman-Ahmed/Port Scanner?style=social)](https://github.com/Muhammad-Nouman-Ahmed/Port Scanner)
 [![forks - Port Scanner](https://img.shields.io/github/forks/Muhammad-Nouman-Ahmed/Port Scanner?style=social)](https://github.com/Muhammad-Nouman-Ahmed/Port Scanner)
 
