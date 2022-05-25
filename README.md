@@ -6,6 +6,9 @@ This code will scan the choosen ports from list and display the result.
 Python 3.x \
 pip install socket
 
+## Google Form
+
+<button style="background-color: turquoise; border: none; border-radius: 5px; color: #333; /* Dark grey */ padding: 15px 32px"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdhxR5JdOb_pjtQb48Ax8JbJfkbcCyCeYLBWxHQ02u7z5oKag/viewform?usp=sf_link" target="blank"> Fill the form for Questions, Queries and Suggestions</a></button>
 
 ## Authors
 
@@ -22,5 +25,4 @@ pip install socket
 <a href="https://www.hackerrank.com/ahmi10917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmi10917" height="30" width="40" /></a>
 </p>
 
-## Google Form
-<a href="[https://www.hackerrank.com/ahmi10917](https://docs.google.com/forms/d/e/1FAIpQLSdhxR5JdOb_pjtQb48Ax8JbJfkbcCyCeYLBWxHQ02u7z5oKag/viewform?usp=sf_link)" target="blank"> Fill the form for Questions, Queries and Suggestions</a>
+
