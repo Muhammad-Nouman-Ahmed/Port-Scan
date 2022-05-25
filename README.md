@@ -12,10 +12,6 @@ pip install socket
 
 
 
-## License
-
-Released under [Public](/LICENSE) by [@Muhammad-Nouman-Ahmed](https://github.com/Muhammad-Nouman-Ahmed).
-
 ## Authors
 
 - [@Muhammad-Nouman-Ahmed](https://github.com/Muhammad-Nouman-Ahmed)
@@ -31,4 +27,7 @@ Released under [Public](/LICENSE) by [@Muhammad-Nouman-Ahmed](https://github.com
 <a href="https://www.hackerrank.com/ahmi10917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmi10917" height="30" width="40" /></a>
 </p>
 
+## License
+
+Released under [Public](/LICENSE) by [@Muhammad-Nouman-Ahmed](https://github.com/Muhammad-Nouman-Ahmed).
 
