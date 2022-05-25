@@ -1,6 +1,27 @@
-# Port-Scan
+# Port Scanner 
+
 This code will scan the choosen ports from list and display the result.
 
-Requirment:
-pip install socket and
-python3
+# Requirement
+Python 3.x \
+pip install socket
+
+
+## Authors
+
+- [@Muhammad-Nouman-Ahmed](https://github.com/Muhammad-Nouman-Ahmed)
+
+
+
+## Reach us
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-nouman-ahmed" alt="muhammad-nouman-ahmed" /></a> </p>
+
+- 📫 How to reach me **ahmi10917@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/nouman_music" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nouman_music" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-nouman-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-nouman-ahmed" height="30" width="40" /></a>
+<a href="https://instagram.com/nouman_music" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nouman_music" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ahmi10917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmi10917" height="30" width="40" /></a>
+</p>
