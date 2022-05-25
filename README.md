@@ -11,30 +11,6 @@ pip install socket
 <button style="background-color: turquoise; border: none; border-radius: 5px; color: #333; padding: 15px 32px"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdhxR5JdOb_pjtQb48Ax8JbJfkbcCyCeYLBWxHQ02u7z5oKag/viewform?usp=sf_link" target="blank"> Fill the form for Questions, Queries and Suggestions</a></button>
 
 
-[![Muhammad-Nouman-Ahmed - Port Scanner]
-[![stars - Port Scanner](https://img.shields.io/github/stars/Muhammad-Nouman-Ahmed/Port Scanner?style=social)](https://github.com/Muhammad-Nouman-Ahmed/Port Scanner)
-[![forks - Port Scanner](https://img.shields.io/github/forks/Muhammad-Nouman-Ahmed/Port Scanner?style=social)](https://github.com/Muhammad-Nouman-Ahmed/Port Scanner)
-
-_Repo metadata_
-
-
-[![GitHub tag](https://img.shields.io/github/tag/Muhammad-Nouman-Ahmed/Port Scanner?include_prereleases=&sort=semver&color=blue)](https://github.com/Muhammad-Nouman-Ahmed/Port Scanner/releases/)
-[![License](https://img.shields.io/badge/License-Public-blue)](#license)
-[![issues - Port Scanner](https://img.shields.io/github/issues/Muhammad-Nouman-Ahmed/Port Scanner)](https://github.com/Muhammad-Nouman-Ahmed/Port Scanner/issues)
-
-_Call-to-Action buttons_
-
-<div align="center">
-
-[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/Muhammad-Nouman-Ahmed/Port Scanner/generate)
-
-[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://muhammad-nouman-ahmed.github.io/Port Scanner/)
-
-</div>
-
-
-</div>
-
 
 ## License
 
