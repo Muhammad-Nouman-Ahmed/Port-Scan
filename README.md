@@ -12,10 +12,6 @@ pip install socket
 - [@Muhammad-Nouman-Ahmed](https://github.com/Muhammad-Nouman-Ahmed)
 
 
-
-## Reach us
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-nouman-ahmed" alt="muhammad-nouman-ahmed" /></a> </p>
-
 - 📫 How to reach me **ahmi10917@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
