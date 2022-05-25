@@ -1,8 +1,8 @@
-# Port Scanner 
+## Port Scanner 
 
 This code will scan the choosen ports from list and display the result.
 
-# Requirement
+## Requirement
 Python 3.x \
 pip install socket
 
