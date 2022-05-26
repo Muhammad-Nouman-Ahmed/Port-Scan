@@ -3,8 +3,8 @@
 This code will scan the choosen ports from list and display the result.
 
 ## Requirement
-Python 3.x \
-pip install socket
+*Python 3.x \
+*pip install socket
 
 ## Google Form
 
